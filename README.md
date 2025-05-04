@@ -5,7 +5,9 @@
 
 # 👋🏼 I'm Aymane!
 
+<p align="center">
 I love turning ideas into sleek, full-stack web experiences ✨
+</p>
 
 ---
 
