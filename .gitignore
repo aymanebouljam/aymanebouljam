@@ -15,6 +15,9 @@ Thumbs.db
 
 # Source images
 *.png
+!demo/
+!demo/thumbnails/
+!demo/thumbnails/*.png
 *.jpg
 *.jpeg
 *.webp

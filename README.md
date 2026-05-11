@@ -337,7 +337,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Storex-API" title="Open Storex API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/Storex-API" alt="Storex API repository preview" width="100%" />
+        <img src="demo/thumbnails/storex-api.png" alt="Storex API repository preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -356,7 +356,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma ORM" title="Prisma ORM" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/RoomReserve-API" title="Open RoomReserve API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/RoomReserve-API" alt="RoomReserve API repository preview" width="100%" />
+        <img src="demo/thumbnails/roomreserve-api.png" alt="RoomReserve API repository preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -377,7 +377,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pydantic/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pydantic/6d28d9" /><img src="https://cdn.simpleicons.org/pydantic/6d28d9" alt="Pydantic" title="Pydantic" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Blink-API" title="Open Blink API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/Blink-API" alt="Blink API repository preview" width="100%" />
+        <img src="demo/thumbnails/blink-api.png" alt="Blink API repository preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -396,7 +396,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma ORM" title="Prisma ORM" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/AuthCore-API" title="Open AuthCore API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/AuthCore-API" alt="AuthCore API repository preview" width="100%" />
+        <img src="demo/thumbnails/authcore-api.png" alt="AuthCore API repository preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -417,7 +417,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/InvoiceKit-API" title="Open InvoiceKit API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/InvoiceKit-API" alt="InvoiceKit API repository preview" width="100%" />
+        <img src="demo/thumbnails/invoicekit-api.png" alt="InvoiceKit API repository preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -436,7 +436,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/ExpenseKit-API" title="Open ExpenseKit API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/ExpenseKit-API" alt="ExpenseKit API repository preview" width="100%" />
+        <img src="demo/thumbnails/expensekit-api.png" alt="ExpenseKit API repository preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -457,7 +457,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/EduCore-API" title="Open EduCore API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/EduCore-API" alt="EduCore API repository preview" width="100%" />
+        <img src="demo/thumbnails/educore-api.png" alt="EduCore API repository preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -476,7 +476,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/LibraryCore-API" title="Open LibraryCore API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/LibraryCore-API" alt="LibraryCore API repository preview" width="100%" />
+        <img src="demo/thumbnails/librarycore-api.png" alt="LibraryCore API repository preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -497,7 +497,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/LexiCore-API" title="Open LexiCore API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/LexiCore-API" alt="LexiCore API repository preview" width="100%" />
+        <img src="demo/thumbnails/lexicore-api.png" alt="LexiCore API repository preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -516,211 +516,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/DriveCore-API" title="Open DriveCore API repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/DriveCore-API" alt="DriveCore API repository preview" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-  <summary align="center"><strong>CLI Tools</strong></summary>
-  <br />
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // VAULT CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/vault-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/vault-cli-light.svg" />
-          <img src="demo/descriptions/vault-cli-light.svg" alt="Local-first Python CLI for encrypted developer secret storage" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/Vault-CLI" title="Open Vault CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/Vault-CLI" alt="Vault CLI repository preview" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">02 // DEVKIT CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/devkit-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/devkit-cli-light.svg" />
-          <img src="demo/descriptions/devkit-cli-light.svg" alt="Python CLI for scaffolding and local dev workflows" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/DevKit-CLI" title="Open DevKit CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/DevKit-CLI" alt="DevKit CLI repository preview" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">03 // PULSELOG CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/pulselog-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/pulselog-cli-light.svg" />
-          <img src="demo/descriptions/pulselog-cli-light.svg" alt="Streaming log analyzer for large files with pattern grouping and anomaly highlights" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/PulseLog-CLI" title="Open PulseLog CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/PulseLog-CLI" alt="PulseLog CLI repository preview" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">04 // PYCLEAN CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/pyclean-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/pyclean-cli-light.svg" />
-          <img src="demo/descriptions/pyclean-cli-light.svg" alt="Safety-first Python CLI for scanning large files and cleaning temp or cache data" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/Pyclean-CLI" title="Open Pyclean CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/Pyclean-CLI" alt="Pyclean CLI repository preview" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">05 // CALLR CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/callr-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/callr-cli-light.svg" />
-          <img src="demo/descriptions/callr-cli-light.svg" alt="Developer-friendly API testing CLI for running, inspecting, saving, and replaying requests" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/Callr-CLI" title="Open Callr CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/Callr-CLI" alt="Callr CLI repository preview" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">06 // GITRADAR CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/gitradar-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/gitradar-cli-light.svg" />
-          <img src="demo/descriptions/gitradar-cli-light.svg" alt="Python CLI for Git trends, contributor activity, and risky commit signals" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/git/6d28d9" /><img src="https://cdn.simpleicons.org/git/6d28d9" alt="GitPython" title="GitPython" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/GitRadar-CLI" title="Open GitRadar CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/GitRadar-CLI" alt="GitRadar CLI repository preview" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">07 // SWIFTTEST CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/swifttest-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/swifttest-cli-light.svg" />
-          <img src="demo/descriptions/swifttest-cli-light.svg" alt="Pytest wrapper CLI with clean summaries and cached slow-test reporting" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="pytest-json-report" title="pytest-json-report" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Rich CLI" title="Rich CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/SwiftTest-CLI" title="Open SwiftTest CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/SwiftTest-CLI" alt="SwiftTest CLI repository preview" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">08 // JKIT CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/jkit-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/jkit-cli-light.svg" />
-          <img src="demo/descriptions/jkit-cli-light.svg" alt="CLI for filtering, transforming, and converting JSON and YAML with safe defaults" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON + YAML" title="JSON + YAML" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/JKit-CLI" title="Open JKit CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/JKit-CLI" alt="JKit CLI repository preview" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">09 // REPOLENS CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/repolens-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/repolens-cli-light.svg" />
-          <img src="demo/descriptions/repolens-cli-light.svg" alt="Python CLI for repository analysis, dead-symbol checks, and complexity hints" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON output" title="JSON output" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/RepoLens-CLI" title="Open RepoLens CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/RepoLens-CLI" alt="RepoLens CLI repository preview" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">10 // DEPSCOPE CLI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/depscope-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/depscope-cli-light.svg" />
-          <img src="demo/descriptions/depscope-cli-light.svg" alt="Python CLI for dependency health and environment diagnostics" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON output" title="JSON output" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/DepScope-CLI" title="Open DepScope CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/DepScope-CLI" alt="DepScope CLI repository preview" width="100%" />
+        <img src="demo/thumbnails/drivecore-api.png" alt="DriveCore API repository preview" width="100%" />
       </a>
     </td>
   </tr>
