@@ -466,12 +466,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/aymanebouljam">
-    <img src="https://ghchart.rshah.org/6d28d9/aymanebouljam" alt="GitHub contribution graph" />
-  </a>
-</p>
-
 <p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-size: 16px; font-weight: 700;">
   //
 </p>
