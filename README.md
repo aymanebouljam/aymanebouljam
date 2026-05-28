@@ -102,10 +102,6 @@
 </p>
 
 <details>
-  <summary align="center"><strong>Projects Showcase</strong></summary>
-  <br />
-
-<details>
   <summary align="center"><strong>Frontend</strong></summary>
   <br />
 
@@ -433,8 +429,6 @@
     </td>
   </tr>
 </table>
-
-</details>
 
 </details>
 
