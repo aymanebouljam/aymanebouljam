@@ -6,49 +6,49 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B1Zmc2YXZnYTR6cWVybWgyaml3eHBiOW5yNTE2enFqY3p1MmoyZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ij1WvlilscRFoIRn7u/giphy.gif" width="340" />
 </p>
 
-<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-size: 16px; font-weight: 700;">
   //
 </p>
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>W H O&nbsp;&nbsp;A M&nbsp;&nbsp;I</tt></span>
+    <span style="display: inline-block; font-size: 15px;"><code>W H O&nbsp;&nbsp;A M&nbsp;&nbsp;I</code></span>
   </strong>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=320&height=24&lines=I%27m+Aymane+Bouljam." alt="I'm Aymane Bouljam." />
 </p>
 
-<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-size: 16px; font-weight: 700;">
   //
 </p>
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>W H A T&nbsp;&nbsp;I&nbsp;&nbsp;D O</tt></span>
+    <span style="display: inline-block; font-size: 15px;"><code>W H A T&nbsp;&nbsp;I&nbsp;&nbsp;D O</code></span>
   </strong>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=900&height=24&lines=I+work+as+a+fullstack+developer+with+specialization+in+backend+development." alt="I work as a fullstack developer with specialization in backend development." />
 </p>
 
-<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-size: 16px; font-weight: 700;">
   //
 </p>
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>M O T T O</tt></span>
+    <span style="display: inline-block; font-size: 15px;"><code>M O T T O</code></span>
   </strong>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=360&height=24&lines=%22Clarity+First.+Speed+Always.%22" alt="Clarity First. Speed Always." />
 </p>
 
-<p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+<p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-size: 16px; font-weight: 700;">
   //
 </p>
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>T E C H&nbsp;&nbsp;S T A C K</tt></span>
+    <span style="display: inline-block; font-size: 15px;"><code>T E C H&nbsp;&nbsp;S T A C K</code></span>
   </strong>
 </p>
 
@@ -87,13 +87,13 @@
   <img src="https://cdn.simpleicons.org/ubuntu/6d28d9" alt="Ubuntu" title="Ubuntu" width="50"/>
 </p>
 
-<p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+<p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-size: 16px; font-weight: 700;">
   //
 </p>
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>F E A T U R E D&nbsp;&nbsp;W O R K</tt></span>
+    <span style="display: inline-block; font-size: 15px;"><code>F E A T U R E D&nbsp;&nbsp;W O R K</code></span>
   </strong>
 </p>
 
@@ -101,8 +101,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1700&color=8B5CF6&center=true&vCenter=true&width=920&height=32&lines=This+is+a+sample+of+what+I+can+build;Each+project+is+built+with+care%2C+speed%2C+and+detail" alt="Recent drops typing" />
 </p>
 
+<div align="center">
 <details>
-  <summary align="center"><strong>Frontend</strong></summary>
+  <summary><strong>Frontend</strong></summary>
   <br />
 
 <table align="center">
@@ -310,9 +311,11 @@
 </table>
 
 </details>
+</div>
 
+<div align="center">
 <details>
-  <summary align="center"><strong>Full Stack</strong></summary>
+  <summary><strong>Full Stack</strong></summary>
   <br />
 
 <table align="center" width="100%">
@@ -431,14 +434,15 @@
 </table>
 
 </details>
+</div>
 
-<p align="center" style="margin: 18px 0 16px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+<p align="center" style="margin: 18px 0 16px; color: #6d28d9; font-size: 16px; font-weight: 700;">
   //
 </p>
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>G I T H U B&nbsp;&nbsp;S T A T S</tt></span>
+    <span style="display: inline-block; font-size: 15px;"><code>G I T H U B&nbsp;&nbsp;S T A T S</code></span>
   </strong>
 </p>
 
@@ -468,13 +472,13 @@
   </a>
 </p>
 
-<p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+<p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-size: 16px; font-weight: 700;">
   //
 </p>
 
 <div align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>F I N D&nbsp;&nbsp;M E</tt></span>
+    <span style="display: inline-block; font-size: 15px;"><code>F I N D&nbsp;&nbsp;M E</code></span>
   </strong>
 </div>
 
