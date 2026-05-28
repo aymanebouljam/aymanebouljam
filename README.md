@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1700&color=8B5CF6&center=true&vCenter=true&width=920&height=32&lines=This+is+a+sample+of+what+I+can+build;Each+project+is+built+with+care%2C+speed%2C+and+detail" alt="Recent drops typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1700&color=8B5CF6&center=true&vCenter=true&width=920&height=32&lines=This+is+a+sample+of+what+I+can+build" alt="This is a sample of what I can build" />
 </p>
 
 <div align="center">
@@ -487,7 +487,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1500&color=8B5CF6&center=true&vCenter=true&width=760&height=32&lines=If+you+are+interested+in+my+work%2C+contact+me;Let%27s+build+something+cool%21" alt="Let's cook something typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1500&color=8B5CF6&center=true&vCenter=true&width=760&height=32&lines=Let%27s+build+something+cool%21" alt="Let's build something cool!" />
 </p>
 
 [![Aymane Bouljam footer][footer-banner]][github]
