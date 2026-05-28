@@ -479,11 +479,11 @@
 <br />
 
 <div align="center">
-  [![Email](https://badgen.net/badge/Email/contact/6d28d9)](https://www.aymanebouljam.com/?section=contact)
+  <a href="https://www.aymanebouljam.com/?section=contact"><img src="https://badgen.net/badge/Email/contact/6d28d9" alt="Email" /></a>
   &nbsp;&nbsp;
-  [![LinkedIn](https://badgen.net/badge/LinkedIn/profile/6d28d9)](https://www.linkedin.com/in/aymanebouljam)
+  <a href="https://www.linkedin.com/in/aymanebouljam"><img src="https://badgen.net/badge/LinkedIn/profile/6d28d9" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  [![Portfolio](https://badgen.net/badge/Portfolio/live/6d28d9)](https://www.aymanebouljam.com)
+  <a href="https://www.aymanebouljam.com"><img src="https://badgen.net/badge/Portfolio/live/6d28d9" alt="Portfolio" /></a>
 </div>
 
 <p align="center">
