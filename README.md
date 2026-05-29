@@ -6,6 +6,8 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B1Zmc2YXZnYTR6cWVybWgyaml3eHBiOW5yNTE2enFqY3p1MmoyZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ij1WvlilscRFoIRn7u/giphy.gif" width="340" />
 </p>
 
+<br />
+
 <p align="center">
   <strong>
     <span style="display: inline-block; font-size: 15px;"><code>W H O&nbsp;&nbsp;A M&nbsp;&nbsp;I</code></span>
@@ -14,6 +16,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=320&height=24&lines=I%27m+Aymane+Bouljam." alt="I'm Aymane Bouljam." />
 </p>
+
+<br />
 
 <p align="center">
   <strong>
@@ -24,6 +28,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=900&height=24&lines=I+work+as+a+fullstack+developer+with+specialization+in+backend+development." alt="I work as a fullstack developer with specialization in backend development." />
 </p>
 
+<br />
+
 <p align="center">
   <strong>
     <span style="display: inline-block; font-size: 15px;"><code>M O T T O</code></span>
@@ -32,6 +38,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=360&height=24&lines=%22Clarity+First.+Speed+Always.%22" alt="Clarity First. Speed Always." />
 </p>
+
+<br />
 
 <p align="center">
   <strong>
@@ -73,6 +81,8 @@
 <p align="center" style="margin: 10px 0 18px;">
   <img src="https://cdn.simpleicons.org/ubuntu/6d28d9" alt="Ubuntu" title="Ubuntu" width="50"/>
 </p>
+
+<br />
 
 <p align="center">
   <strong>
@@ -419,6 +429,8 @@
 </details>
 </div>
 
+<br />
+
 <p align="center">
   <strong>
     <span style="display: inline-block; font-size: 15px;"><code>G I T H U B&nbsp;&nbsp;S T A T S</code></span>
@@ -444,6 +456,8 @@
     </picture>
   </a>
 </p>
+
+<br />
 
 <div align="center">
   <strong>
