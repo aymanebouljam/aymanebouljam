@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <strong><span style="color: #8b5cf6; font-size: 18px;">This is a sample of what I can build</span></strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=520&height=24&lines=This+is+a+sample+of+what+I+can+build" alt="This is a sample of what I can build" />
 </p>
 
 <div align="center">
@@ -487,7 +487,7 @@
 </div>
 
 <p align="center">
-  <strong><span style="color: #8b5cf6; font-size: 18px;">Let's build something cool!</span></strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=360&height=24&lines=Let%27s+build+something+cool%21" alt="Let's build something cool!" />
 </p>
 
 [![Aymane Bouljam footer][footer-banner]][github]
