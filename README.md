@@ -488,4 +488,4 @@
 [banner]: https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,38:2e1065,72:4c1d95,100:8b5cf6&animation=twinkling
 [footer-banner]: https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,38:2e1065,72:4c1d95,100:8b5cf6&animation=twinkling&reversal=true
 [github]: https://github.com/aymanebouljam
-[typing]: https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=920&height=54&lines=Hello+There%21;Welcome+to+my+Hub%21
+[typing]: https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=920&height=54&lines=Hello+There%21;Welcome+to+my+Hub%21
