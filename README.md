@@ -486,9 +486,13 @@
   <a href="https://www.aymanebouljam.com"><img src="https://badgen.net/badge/Portfolio/live/6d28d9" alt="Portfolio" /></a>
 </div>
 
-<p align="center" style="margin: 14px 0 18px;">
+<br />
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=360&height=24&lines=Let%27s+build+something+cool%21" alt="Let's build something cool!" />
 </p>
+
+<br />
 
 [![Aymane Bouljam footer][footer-banner]][github]
 
