@@ -4,8 +4,8 @@
   <a href="https://github.com/aymanebouljam">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=920&height=54&lines=Hello+There%21;Welcome+to+my+Hub%21" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=920&height=54&background=2596be&lines=Hello+There%21;Welcome+to+my+Hub%21" />
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=920&height=54&background=2596be&lines=Hello+There%21;Welcome+to+my+Hub%21" alt="Typing intro" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=920&height=54&background=0d1117&lines=Hello+There%21;Welcome+to+my+Hub%21" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=920&height=54&background=0d1117&lines=Hello+There%21;Welcome+to+my+Hub%21" alt="Typing intro" />
     </picture>
   </a>
 </p>
