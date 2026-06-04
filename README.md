@@ -457,9 +457,9 @@
 <p align="center">
   <a href="https://github.com/aymanebouljam">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=1f2937&ring=201edf&fire=201edf&currStreakLabel=201edf&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=201edf&fire=201edf&currStreakLabel=201edf&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=201edf&card_width=980" />
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=201edf&fire=201edf&currStreakLabel=201edf&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=201edf&card_width=980" alt="GitHub streak" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=1f2937&ring=201edf&fire=201edf&currStreakLabel=201edf&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=201edf&fire=201edf&currStreakLabel=201edf&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=201edf&card_width=980" />
+      <img src="https://streak-stats.demolab.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=201edf&fire=201edf&currStreakLabel=201edf&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=201edf&card_width=980" alt="GitHub streak" width="100%" />
     </picture>
   </a>
 </p>
