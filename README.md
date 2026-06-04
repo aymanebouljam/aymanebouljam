@@ -21,16 +21,16 @@
   </strong>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=26&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=34&lines=I%E2%80%99m+a+full-stack+developer+with+a+strong+lean+toward+backend+development%2C" alt="I’m a full-stack developer with a strong lean toward backend development," />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=I%E2%80%99m+a+full-stack+developer+with+a+strong+lean+toward+backend+development%2C" alt="I’m a full-stack developer with a strong lean toward backend development," />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=26&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=34&lines=where+I+enjoy+designing+clean+architectures%2C+robust+APIs%2C+and+scalable+systems." alt="where I enjoy designing clean architectures, robust APIs, and scalable systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=where+I+enjoy+designing+clean+architectures%2C+robust+APIs%2C+and+scalable+systems." alt="where I enjoy designing clean architectures, robust APIs, and scalable systems." />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=26&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=34&lines=Even+so%2C+I+like+building+complete+products+end-to-end%2C" alt="Even so, I like building complete products end-to-end," />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=Even+so%2C+I+like+building+complete+products+end-to-end%2C" alt="Even so, I like building complete products end-to-end," />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=26&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=34&lines=which+is+why+many+of+my+demos+also+showcase+polished+frontend+experiences." alt="which is why many of my demos also showcase polished frontend experiences." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=which+is+why+many+of+my+demos+also+showcase+polished+frontend+experiences." alt="which is why many of my demos also showcase polished frontend experiences." />
 </p>
 
 <br />
