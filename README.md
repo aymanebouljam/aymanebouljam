@@ -2,10 +2,6 @@
 
 [![Typing intro][typing]][github]
 
-<p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B1Zmc2YXZnYTR6cWVybWgyaml3eHBiOW5yNTE2enFqY3p1MmoyZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ij1WvlilscRFoIRn7u/giphy.gif" width="340" />
-</p>
-
 <br />
 
 <p align="center">
@@ -48,118 +44,38 @@
 </p>
 
 <p align="center" style="margin: 10px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000" />
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="50"/>
-  </picture>
+  <img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="50"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/000000" />
-    <img src="https://cdn.simpleicons.org/react/000000" alt="React" title="React" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vue.js/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vue.js/000000" />
-    <img src="https://cdn.simpleicons.org/vue.js/000000" alt="Vue.js" title="Vue.js" width="50" hspace="8"/>
-  </picture>
+  <img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/vue.js/6d28d9" alt="Vue.js" title="Vue.js" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nuxt/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nuxt/000000" />
-    <img src="https://cdn.simpleicons.org/nuxt/000000" alt="Nuxt.js" title="Nuxt.js" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/000000" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/000000" alt="Tailwind CSS" title="Tailwind CSS" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/000000" />
-    <img src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui" title="shadcn/ui" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/000000" />
-    <img src="https://cdn.simpleicons.org/python/000000" alt="Python" title="Python" width="50" hspace="8"/>
-  </picture>
+  <img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/000000" />
-    <img src="https://cdn.simpleicons.org/laravel/000000" alt="Laravel" title="Laravel" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nestjs/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nestjs/000000" />
-    <img src="https://cdn.simpleicons.org/nestjs/000000" alt="NestJS" title="NestJS" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastify/000000" />
-    <img src="https://cdn.simpleicons.org/fastify/000000" alt="Fastify" title="Fastify" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000" />
-    <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nodedotjs/000000" />
-    <img src="https://cdn.simpleicons.org/nodedotjs/000000" alt="Node.js" title="Node.js" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/000000" />
-    <img src="https://cdn.simpleicons.org/bun/000000" alt="Bun" title="Bun" width="50" hspace="8"/>
-  </picture>
+  <img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/nestjs/6d28d9" alt="NestJS" title="NestJS" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/fastify/6d28d9" alt="Fastify" title="Fastify" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/express/6d28d9" alt="Express.js" title="Express.js" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/6d28d9" alt="Node.js" title="Node.js" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/000000" />
-    <img src="https://cdn.simpleicons.org/postgresql/000000" alt="PostgreSQL" title="PostgreSQL" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongodb/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mongodb/000000" />
-    <img src="https://cdn.simpleicons.org/mongodb/000000" alt="MongoDB" title="MongoDB" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/redis/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/redis/000000" />
-    <img src="https://cdn.simpleicons.org/redis/000000" alt="Redis" title="Redis" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/docker/000000" />
-    <img src="https://cdn.simpleicons.org/docker/000000" alt="Docker" title="Docker" width="50" hspace="8"/>
-  </picture>
+  <img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/mongodb/6d28d9" alt="MongoDB" title="MongoDB" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/redis/6d28d9" alt="Redis" title="Redis" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/docker/6d28d9" alt="Docker" title="Docker" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/000000" />
-    <img src="https://cdn.simpleicons.org/prisma/000000" alt="Prisma" title="Prisma" width="50" hspace="8"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pnpm/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pnpm/000000" />
-    <img src="https://cdn.simpleicons.org/pnpm/000000" alt="Pnpm" title="pnpm" width="50" hspace="8"/>
-  </picture>
+  <img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma" title="Prisma" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/pnpm/6d28d9" alt="Pnpm" title="pnpm" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0 18px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ubuntu/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ubuntu/000000" />
-    <img src="https://cdn.simpleicons.org/ubuntu/000000" alt="Ubuntu" title="Ubuntu" width="50"/>
-  </picture>
+  <img src="https://cdn.simpleicons.org/ubuntu/6d28d9" alt="Ubuntu" title="Ubuntu" width="50"/>
 </p>
 
 <br />
