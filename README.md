@@ -21,7 +21,7 @@
   </strong>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=900&height=24&lines=I+work+as+a+fullstack+developer+with+specialization+in+backend+development." alt="I work as a fullstack developer with specialization in backend development." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1600&height=24&lines=I%E2%80%99m+a+full-stack+developer+with+a+strong+lean+toward+backend+development%2C+where+I+enjoy+designing+clean+architectures%2C+robust+APIs%2C+and+scalable+systems.+Even+so%2C+I+like+building+complete+products+end-to-end%2C+which+is+why+many+of+my+demos+also+showcase+polished+frontend+experiences." alt="I’m a full-stack developer with a strong lean toward backend development, where I enjoy designing clean architectures, robust APIs, and scalable systems. Even so, I like building complete products end-to-end, which is why many of my demos also showcase polished frontend experiences." />
 </p>
 
 <br />
