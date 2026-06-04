@@ -37,11 +37,11 @@
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><code>M O T T O</code></span>
+    <span style="display: inline-block; font-size: 15px;"><code>P H I L O S O P H Y</code></span>
   </strong>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=360&height=24&lines=%22Clarity+First.+Speed+Always.%22" alt="Clarity First. Speed Always." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=520&height=24&lines=Clarity+first+%E2%80%A2+Ship+complete+products+%E2%80%A2+Build+for+scale" alt="Clarity first, Ship complete products, Build for scale" />
 </p>
 
 <br />
@@ -85,6 +85,18 @@
 </p>
 <p align="center" style="margin: 10px 0 18px;">
   <img src="https://cdn.simpleicons.org/ubuntu/6d28d9" alt="Ubuntu" title="Ubuntu" width="50"/>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>
+    <span style="display: inline-block; font-size: 15px;"><code>F A V O U R I T E&nbsp;&nbsp;S T A C K</code></span>
+  </strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=520&height=24&lines=Laravel+%E2%80%A2+PostgreSQL+%E2%80%A2+Next.js+%E2%80%A2+Shadcn%2Fui+%E2%80%A2+Tailwind+CSS" alt="Laravel, PostgreSQL, Next.js, Shadcn/ui, Tailwind CSS" />
 </p>
 
 <br />
