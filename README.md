@@ -1,13 +1,16 @@
 <p align="center">
+  <strong>Hello World, Welcome to my hub!</strong>
+</p>
+
+<p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><code>B I O</code></span>
+    <span style="display: inline-block; font-size: 15px;"><code>W H O&nbsp;&nbsp;I&nbsp;&nbsp;A M</code></span>
   </strong>
 </p>
 <p align="center">
   I’m Aymane Bouljam.<br />
-  Backend-leaning full-stack developer.<br />
-  I enjoy designing clean architectures, robust APIs, and scalable systems.<br />
-  I also like shipping complete products end-to-end, which is why many of my demos showcase polished frontend experiences.
+  I’m a full-stack developer with a backend-first approach.<br />
+  I enjoy designing clean architectures, robust APIs, scalable systems, and shipping complete products end-to-end.
 </p>
 
 <br />
@@ -26,12 +29,13 @@
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><code>F A V O U R I T E&nbsp;&nbsp;S T A C K</code></span>
+    <span style="display: inline-block; font-size: 15px;"><code>T E C H&nbsp;&nbsp;S T A C K</code></span>
   </strong>
 </p>
 
 <p align="center">
-  Laravel • PostgreSQL • Next.js • Shadcn/ui • Tailwind CSS
+  I can adapt to different stacks and project needs, but I especially enjoy working with:<br />
+  Laravel, PostgreSQL, Next.js, Shadcn/ui, and Tailwind CSS.
 </p>
 
 <br />
@@ -43,7 +47,7 @@
 </p>
 
 <p align="center">
-  A sample of the products I like building.
+  A selection of apps I’ve built.
 </p>
 
 <div align="center">
@@ -295,6 +299,12 @@
     <span style="display: inline-block; font-size: 15px;"><code>C O N T A C T&nbsp;&nbsp;M E</code></span>
   </strong>
 </div>
+
+<br />
+
+<p align="center">
+  Open to freelance, open-source, full-time, and remote opportunities.
+</p>
 
 <br />
 
