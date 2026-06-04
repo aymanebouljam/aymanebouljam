@@ -1,6 +1,8 @@
 <p align="center">
-  <strong>Hello World, Welcome to my hub!</strong>
+  <strong>Hello World, Welcome to my hub 👋</strong>
 </p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
   <strong>
