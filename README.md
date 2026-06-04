@@ -456,12 +456,6 @@
 
 <p align="center">
   <a href="https://github.com/aymanebouljam">
-    <img src="https://github-readme-stats.vercel.app/api?username=aymanebouljam&show_icons=true&hide_border=true&bg_color=00000000&title_color=201edf&icon_color=201edf&text_color=94a3b8&border_color=00000000&rank_icon=github" alt="GitHub stats" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aymanebouljam">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aymanebouljam&bg_color=00000000&color=201edf&line=201edf&point=ffffff&area=true&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aymanebouljam&bg_color=ffffff00&color=201edf&line=201edf&point=1f2937&area=true&hide_border=true" />
