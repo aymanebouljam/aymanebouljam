@@ -10,7 +10,7 @@
   </strong>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=320&height=24&lines=I%27m+Aymane+Bouljam." alt="I'm Aymane Bouljam." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=201edf&center=true&vCenter=true&repeat=false&width=320&height=24&lines=I%27m+Aymane+Bouljam." alt="I'm Aymane Bouljam." />
 </p>
 
 <br />
@@ -21,16 +21,16 @@
   </strong>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=I%E2%80%99m+a+full-stack+developer+with+a+strong+lean+toward+backend+development%2C" alt="I’m a full-stack developer with a strong lean toward backend development," />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=201edf&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=I%E2%80%99m+a+full-stack+developer+with+a+strong+lean+toward+backend+development%2C" alt="I’m a full-stack developer with a strong lean toward backend development," />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=where+I+enjoy+designing+clean+architectures%2C+robust+APIs%2C+and+scalable+systems." alt="where I enjoy designing clean architectures, robust APIs, and scalable systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=201edf&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=where+I+enjoy+designing+clean+architectures%2C+robust+APIs%2C+and+scalable+systems." alt="where I enjoy designing clean architectures, robust APIs, and scalable systems." />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=Even+so%2C+I+like+building+complete+products+end-to-end%2C" alt="Even so, I like building complete products end-to-end," />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=201edf&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=Even+so%2C+I+like+building+complete+products+end-to-end%2C" alt="Even so, I like building complete products end-to-end," />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=which+is+why+many+of+my+demos+also+showcase+polished+frontend+experiences." alt="which is why many of my demos also showcase polished frontend experiences." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=1&pause=9999999&color=201edf&center=true&vCenter=true&repeat=false&width=1100&height=30&lines=which+is+why+many+of+my+demos+also+showcase+polished+frontend+experiences." alt="which is why many of my demos also showcase polished frontend experiences." />
 </p>
 
 <br />
@@ -41,7 +41,7 @@
   </strong>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=520&height=24&lines=Clarity+first+%E2%80%A2+Ship+complete+products+%E2%80%A2+Build+for+scale" alt="Clarity first, Ship complete products, Build for scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=201edf&center=true&vCenter=true&repeat=false&width=520&height=24&lines=Clarity+first+%E2%80%A2+Ship+complete+products+%E2%80%A2+Build+for+scale" alt="Clarity first, Ship complete products, Build for scale" />
 </p>
 
 <br />
@@ -53,38 +53,38 @@
 </p>
 
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="50"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/201edf" alt="Next.js" title="Next.js" width="50"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/vue.js/6d28d9" alt="Vue.js" title="Vue.js" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/react/201edf" alt="React" title="React" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/vue.js/201edf" alt="Vue.js" title="Vue.js" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/nuxt/201edf" alt="Nuxt.js" title="Nuxt.js" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/shadcnui/201edf" alt="shadcn/ui" title="shadcn/ui" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/python/201edf" alt="Python" title="Python" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/nestjs/6d28d9" alt="NestJS" title="NestJS" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/fastify/6d28d9" alt="Fastify" title="Fastify" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/express/6d28d9" alt="Express.js" title="Express.js" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/6d28d9" alt="Node.js" title="Node.js" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/laravel/201edf" alt="Laravel" title="Laravel" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/nestjs/201edf" alt="NestJS" title="NestJS" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/fastify/201edf" alt="Fastify" title="Fastify" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/express/201edf" alt="Express.js" title="Express.js" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/201edf" alt="Node.js" title="Node.js" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/bun/201edf" alt="Bun" title="Bun" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/mongodb/6d28d9" alt="MongoDB" title="MongoDB" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/redis/6d28d9" alt="Redis" title="Redis" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/docker/6d28d9" alt="Docker" title="Docker" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/postgresql/201edf" alt="PostgreSQL" title="PostgreSQL" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/mongodb/201edf" alt="MongoDB" title="MongoDB" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/redis/201edf" alt="Redis" title="Redis" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/docker/201edf" alt="Docker" title="Docker" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma" title="Prisma" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/pnpm/6d28d9" alt="Pnpm" title="pnpm" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/prisma/201edf" alt="Prisma" title="Prisma" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/pnpm/201edf" alt="Pnpm" title="pnpm" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0 18px;">
-  <img src="https://cdn.simpleicons.org/ubuntu/6d28d9" alt="Ubuntu" title="Ubuntu" width="50"/>
+  <img src="https://cdn.simpleicons.org/ubuntu/201edf" alt="Ubuntu" title="Ubuntu" width="50"/>
 </p>
 
 <br />
@@ -96,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=520&height=24&lines=Laravel+%E2%80%A2+PostgreSQL+%E2%80%A2+Next.js+%E2%80%A2+Shadcn%2Fui+%E2%80%A2+Tailwind+CSS" alt="Laravel, PostgreSQL, Next.js, Shadcn/ui, Tailwind CSS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=201edf&center=true&vCenter=true&repeat=false&width=520&height=24&lines=Laravel+%E2%80%A2+PostgreSQL+%E2%80%A2+Next.js+%E2%80%A2+Shadcn%2Fui+%E2%80%A2+Tailwind+CSS" alt="Laravel, PostgreSQL, Next.js, Shadcn/ui, Tailwind CSS" />
 </p>
 
 <br />
@@ -108,7 +108,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=520&height=24&lines=This+is+a+sample+of+what+I+can+build" alt="This is a sample of what I can build" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=201edf&center=true&vCenter=true&repeat=false&width=520&height=24&lines=This+is+a+sample+of+what+I+can+build" alt="This is a sample of what I can build" />
 </p>
 
 <div align="center">
@@ -128,10 +128,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/201edf" /><img src="https://cdn.simpleicons.org/nextdotjs/201edf" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/201edf" /><img src="https://cdn.simpleicons.org/shadcnui/201edf" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/201edf" /><img src="https://cdn.simpleicons.org/framer/201edf" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Emerald-Leaf" title="Open Emerald Leaf repository">
         <img src="demo/gifs/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
@@ -147,10 +147,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/supabase/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/supabase/6d28d9" /><img src="https://cdn.simpleicons.org/supabase/6d28d9" alt="Supabase" title="Supabase" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/201edf" /><img src="https://cdn.simpleicons.org/nextdotjs/201edf" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/201edf" /><img src="https://cdn.simpleicons.org/shadcnui/201edf" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/supabase/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/supabase/201edf" /><img src="https://cdn.simpleicons.org/supabase/201edf" alt="Supabase" title="Supabase" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/FilmoraX" title="Open FilmoraX repository">
         <img src="demo/gifs/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
@@ -168,9 +168,9 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/astro/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/astro/6d28d9" /><img src="https://cdn.simpleicons.org/astro/6d28d9" alt="Astro" title="Astro" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/astro/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/astro/201edf" /><img src="https://cdn.simpleicons.org/astro/201edf" alt="Astro" title="Astro" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/201edf" /><img src="https://cdn.simpleicons.org/mailtrap/201edf" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Maison-Ember" title="Open Maison Ember repository">
         <img src="demo/gifs/maison-ember.gif" alt="Maison Ember demo preview" width="100%" />
@@ -186,10 +186,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nuxt/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nuxt/6d28d9" /><img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/daisyui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/daisyui/6d28d9" /><img src="https://cdn.simpleicons.org/daisyui/6d28d9" alt="daisyUI" title="daisyUI" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/6d28d9" /><img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nuxt/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nuxt/201edf" /><img src="https://cdn.simpleicons.org/nuxt/201edf" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/daisyui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/daisyui/201edf" /><img src="https://cdn.simpleicons.org/daisyui/201edf" alt="daisyUI" title="daisyUI" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/201edf" /><img src="https://cdn.simpleicons.org/greensock/201edf" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/201edf" /><img src="https://cdn.simpleicons.org/mailtrap/201edf" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Urban-Haven" title="Open Urban Haven repository">
         <img src="demo/gifs/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
@@ -207,10 +207,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/reactrouter/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/reactrouter/6d28d9" /><img src="https://cdn.simpleicons.org/reactrouter/6d28d9" alt="React Router" title="React Router" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/6d28d9" /><img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/reactrouter/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/reactrouter/201edf" /><img src="https://cdn.simpleicons.org/reactrouter/201edf" alt="React Router" title="React Router" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/201edf" /><img src="https://cdn.simpleicons.org/bun/201edf" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/201edf" /><img src="https://cdn.simpleicons.org/shadcnui/201edf" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Pet-Pantry" title="Open Pet Pantry repository">
         <img src="demo/gifs/pet-pantry.gif" alt="Pet Pantry demo preview" width="100%" />
@@ -226,11 +226,11 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/6d28d9" /><img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/6d28d9" /><img src="https://cdn.simpleicons.org/express/6d28d9" alt="Express" title="Express" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ejs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ejs/6d28d9" /><img src="https://cdn.simpleicons.org/ejs/6d28d9" alt="EJS" title="EJS" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/htmx/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/htmx/6d28d9" /><img src="https://cdn.simpleicons.org/htmx/6d28d9" alt="htmx" title="htmx" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css/6d28d9" /><img src="https://cdn.simpleicons.org/css/6d28d9" alt="CSS" title="CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/201edf" /><img src="https://cdn.simpleicons.org/bun/201edf" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/201edf" /><img src="https://cdn.simpleicons.org/express/201edf" alt="Express" title="Express" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ejs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ejs/201edf" /><img src="https://cdn.simpleicons.org/ejs/201edf" alt="EJS" title="EJS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/htmx/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/htmx/201edf" /><img src="https://cdn.simpleicons.org/htmx/201edf" alt="htmx" title="htmx" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css/201edf" /><img src="https://cdn.simpleicons.org/css/201edf" alt="CSS" title="CSS" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Urban-Pillars" title="Open Urban Pillars repository">
         <img src="demo/gifs/urban-pillars.gif" alt="Urban Pillars demo preview" width="100%" />
@@ -251,10 +251,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/201edf" /><img src="https://cdn.simpleicons.org/nextdotjs/201edf" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/201edf" /><img src="https://cdn.simpleicons.org/shadcnui/201edf" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/201edf" /><img src="https://cdn.simpleicons.org/framer/201edf" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Flex-zone" title="Open Flex Zone repository">
         <img src="demo/gifs/flex-zone.gif" alt="Flex Zone demo preview" width="100%" />
@@ -270,9 +270,9 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/solid/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/solid/6d28d9" /><img src="https://cdn.simpleicons.org/solid/6d28d9" alt="SolidStart" title="SolidStart" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/6d28d9" /><img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/solid/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/solid/201edf" /><img src="https://cdn.simpleicons.org/solid/201edf" alt="SolidStart" title="SolidStart" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/201edf" /><img src="https://cdn.simpleicons.org/bun/201edf" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Le-Petit-Oven" title="Open Le Petit Oven repository">
         <img src="demo/gifs/le-petit-oven.gif" alt="Le Petit Oven demo preview" width="100%" />
@@ -290,9 +290,9 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/6d28d9" /><img src="https://cdn.simpleicons.org/typescript/6d28d9" alt="TypeScript" title="TypeScript" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css/6d28d9" /><img src="https://cdn.simpleicons.org/css/6d28d9" alt="CSS" title="CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/201edf" /><img src="https://cdn.simpleicons.org/react/201edf" alt="React" title="React" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/201edf" /><img src="https://cdn.simpleicons.org/typescript/201edf" alt="TypeScript" title="TypeScript" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css/201edf" /><img src="https://cdn.simpleicons.org/css/201edf" alt="CSS" title="CSS" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Bravio-Media" title="Open Bravio Media repository">
         <img src="demo/gifs/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
@@ -308,10 +308,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/svelte/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/svelte/6d28d9" /><img src="https://cdn.simpleicons.org/svelte/6d28d9" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lucide/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lucide/6d28d9" /><img src="https://cdn.simpleicons.org/lucide/6d28d9" alt="Lucide Svelte" title="Lucide Svelte" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/6d28d9" /><img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/svelte/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/svelte/201edf" /><img src="https://cdn.simpleicons.org/svelte/201edf" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lucide/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lucide/201edf" /><img src="https://cdn.simpleicons.org/lucide/201edf" alt="Lucide Svelte" title="Lucide Svelte" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/201edf" /><img src="https://cdn.simpleicons.org/greensock/201edf" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Nomadian" title="Open Nomadian repository">
         <img src="demo/gifs/nomadian.gif" alt="Nomadian demo preview" width="100%" />
@@ -340,11 +340,11 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/6d28d9" /><img src="https://cdn.simpleicons.org/express/6d28d9" alt="Express" title="Express" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongodb/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mongodb/6d28d9" /><img src="https://cdn.simpleicons.org/mongodb/6d28d9" alt="MongoDB" title="MongoDB" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/201edf" /><img src="https://cdn.simpleicons.org/react/201edf" alt="React" title="React" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/201edf" /><img src="https://cdn.simpleicons.org/express/201edf" alt="Express" title="Express" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongodb/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mongodb/201edf" /><img src="https://cdn.simpleicons.org/mongodb/201edf" alt="MongoDB" title="MongoDB" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/201edf" /><img src="https://cdn.simpleicons.org/framer/201edf" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Inventra" title="Open Inventra repository">
         <img src="demo/gifs/inventra.gif" alt="Inventra demo preview" width="100%" />
@@ -360,11 +360,11 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inertia/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/inertia/6d28d9" /><img src="https://cdn.simpleicons.org/inertia/6d28d9" alt="Inertia.js" title="Inertia.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/201edf" /><img src="https://cdn.simpleicons.org/laravel/201edf" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/201edf" /><img src="https://cdn.simpleicons.org/react/201edf" alt="React" title="React" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inertia/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/inertia/201edf" /><img src="https://cdn.simpleicons.org/inertia/201edf" alt="Inertia.js" title="Inertia.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/201edf" /><img src="https://cdn.simpleicons.org/postgresql/201edf" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Vynce" title="Open Vynce repository">
         <img src="demo/gifs/vynce.gif" alt="Vynce demo preview" width="100%" />
@@ -385,11 +385,11 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inertia/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/inertia/6d28d9" /><img src="https://cdn.simpleicons.org/inertia/6d28d9" alt="Inertia.js" title="Inertia.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql/6d28d9" /><img src="https://cdn.simpleicons.org/mysql/6d28d9" alt="MySQL" title="MySQL" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mui/6d28d9" /><img src="https://cdn.simpleicons.org/mui/6d28d9" alt="Material UI" title="Material UI" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/201edf" /><img src="https://cdn.simpleicons.org/laravel/201edf" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/201edf" /><img src="https://cdn.simpleicons.org/react/201edf" alt="React" title="React" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inertia/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/inertia/201edf" /><img src="https://cdn.simpleicons.org/inertia/201edf" alt="Inertia.js" title="Inertia.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql/201edf" /><img src="https://cdn.simpleicons.org/mysql/201edf" alt="MySQL" title="MySQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mui/201edf" /><img src="https://cdn.simpleicons.org/mui/201edf" alt="Material UI" title="Material UI" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Clinified-Hub" title="Open Clinified Hub repository">
         <img src="demo/gifs/clinified-hub.gif" alt="Clinified Hub demo preview" width="100%" />
@@ -405,11 +405,11 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js App Router" title="Next.js App Router" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma ORM" title="Prisma ORM" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lightning/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lightning/6d28d9" /><img src="https://cdn.simpleicons.org/lightning/6d28d9" alt="Groq" title="Groq" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/201edf" /><img src="https://cdn.simpleicons.org/nextdotjs/201edf" alt="Next.js App Router" title="Next.js App Router" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/201edf" /><img src="https://cdn.simpleicons.org/shadcnui/201edf" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/201edf" /><img src="https://cdn.simpleicons.org/prisma/201edf" alt="Prisma ORM" title="Prisma ORM" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/201edf" /><img src="https://cdn.simpleicons.org/sqlite/201edf" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lightning/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lightning/201edf" /><img src="https://cdn.simpleicons.org/lightning/201edf" alt="Groq" title="Groq" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/Buildly-AI" title="Open Buildly AI repository">
         <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
@@ -430,11 +430,11 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma" title="Prisma" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lightning/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lightning/6d28d9" /><img src="https://cdn.simpleicons.org/lightning/6d28d9" alt="Groq API" title="Groq API" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/201edf" /><img src="https://cdn.simpleicons.org/nextdotjs/201edf" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/201edf" /><img src="https://cdn.simpleicons.org/tailwindcss/201edf" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/201edf" /><img src="https://cdn.simpleicons.org/prisma/201edf" alt="Prisma" title="Prisma" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/201edf" /><img src="https://cdn.simpleicons.org/sqlite/201edf" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lightning/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lightning/201edf" /><img src="https://cdn.simpleicons.org/lightning/201edf" alt="Groq API" title="Groq API" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/aymanebouljam/DocBot-AI" title="Open DocBot AI repository">
         <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
@@ -457,9 +457,9 @@
 <p align="center">
   <a href="https://github.com/aymanebouljam">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=1f2937&ring=8b5cf6&fire=8b5cf6&currStreakLabel=6d28d9&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=6d28d9&fire=6d28d9&currStreakLabel=4c1d95&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=4c1d95&card_width=980" />
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=6d28d9&fire=6d28d9&currStreakLabel=4c1d95&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=4c1d95&card_width=980" alt="GitHub streak" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=1f2937&ring=201edf&fire=201edf&currStreakLabel=201edf&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=201edf&fire=201edf&currStreakLabel=201edf&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=201edf&card_width=980" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=aymanebouljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=201edf&fire=201edf&currStreakLabel=201edf&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=201edf&card_width=980" alt="GitHub streak" width="100%" />
     </picture>
   </a>
 </p>
@@ -467,9 +467,9 @@
 <p align="center">
   <a href="https://github.com/aymanebouljam">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aymanebouljam&bg_color=00000000&color=8b5cf6&line=6d28d9&point=ffffff&area=true&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aymanebouljam&bg_color=ffffff00&color=4c1d95&line=6d28d9&point=1f2937&area=true&hide_border=true" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymanebouljam&bg_color=ffffff00&color=4c1d95&line=6d28d9&point=1f2937&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aymanebouljam&bg_color=00000000&color=201edf&line=201edf&point=ffffff&area=true&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aymanebouljam&bg_color=ffffff00&color=201edf&line=201edf&point=1f2937&area=true&hide_border=true" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymanebouljam&bg_color=ffffff00&color=201edf&line=201edf&point=1f2937&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
     </picture>
   </a>
 </p>
@@ -485,24 +485,24 @@
 <br />
 
 <div align="center">
-  <a href="https://aymanebouljam.com/?section=contact"><img src="https://badgen.net/badge/Email/contact/6d28d9" alt="Email" /></a>
+  <a href="https://aymanebouljam.com/?section=contact"><img src="https://badgen.net/badge/Email/contact/201edf" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aymanebouljam"><img src="https://badgen.net/badge/LinkedIn/profile/6d28d9" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aymanebouljam"><img src="https://badgen.net/badge/LinkedIn/profile/201edf" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://aymanebouljam.com"><img src="https://badgen.net/badge/Portfolio/live/6d28d9" alt="Portfolio" /></a>
+  <a href="https://aymanebouljam.com"><img src="https://badgen.net/badge/Portfolio/live/201edf" alt="Portfolio" /></a>
 </div>
 
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=360&height=24&lines=Let%27s+build+something+cool%21" alt="Let's build something cool!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=201edf&center=true&vCenter=true&repeat=false&width=360&height=24&lines=Let%27s+build+something+cool%21" alt="Let's build something cool!" />
 </p>
 
 <br />
 
 [![Aymane Bouljam footer][footer-banner]][github]
 
-[banner]: https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,38:2e1065,72:4c1d95,100:8b5cf6&animation=twinkling
-[footer-banner]: https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,38:2e1065,72:4c1d95,100:8b5cf6&animation=twinkling&reversal=true
+[banner]: https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,38:201edf,72:201edf,100:201edf&animation=twinkling
+[footer-banner]: https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,38:201edf,72:201edf,100:201edf&animation=twinkling&reversal=true
 [github]: https://github.com/aymanebouljam
-[typing]: https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=920&height=54&lines=Hello+There%21;Welcome+to+my+Hub%21
+[typing]: https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2600&pause=900&color=201edf&center=true&vCenter=true&width=920&height=54&lines=Hello+There%21;Welcome+to+my+Hub%21
