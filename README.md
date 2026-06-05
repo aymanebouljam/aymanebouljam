@@ -1,8 +1,8 @@
 <p align="center">
-  <strong>Hi, welcome to my hub 👋</strong>
+  <strong>Hi there, welcome to my hub 👋</strong>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
   <strong>
@@ -12,7 +12,7 @@
 <p align="center">
   I’m Aymane Bouljam.<br />
   I’m a full-stack developer with a backend-first approach.<br />
-  I enjoy designing clean architectures, robust APIs, scalable systems, and shipping complete products end-to-end.
+  I build clean architectures, robust APIs, scalable systems, and complete products end-to-end.
 </p>
 
 <br />
@@ -36,8 +36,8 @@
 </p>
 
 <p align="center">
-  I can adapt to different stacks and project needs, but I especially enjoy working with:<br />
-  Laravel, PostgreSQL, Next.js, Shadcn/ui, and Tailwind CSS.
+  I can adapt to different stacks and project needs, but I especially enjoy working with<br />
+  Laravel · PostgreSQL · Next.js · Shadcn/ui · Tailwind CSS
 </p>
 
 <br />
@@ -306,9 +306,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Freelance-111111?style=flat-square" alt="Freelance" />
-  <img src="https://img.shields.io/badge/Open%20Source-111111?style=flat-square" alt="Open Source" />
   <img src="https://img.shields.io/badge/Full--Time-111111?style=flat-square" alt="Full-Time" />
   <img src="https://img.shields.io/badge/Remote-111111?style=flat-square" alt="Remote" />
+  <img src="https://img.shields.io/badge/Open%20Source%20%E2%99%A1-111111?style=flat-square" alt="Open Source heart" />
 </div>
 
 <br />
@@ -329,8 +329,8 @@
 
 <br />
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
-  <sub>Let's build something cool.</sub>
+  Let's build something cool... 🤝
 </p>
