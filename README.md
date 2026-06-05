@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   I’m Aymane Bouljam.<br />
-  I’m a full-stack developer with a backend-first approach.<br />
+  I work as a full-stack developer with a backend-first approach.<br />
   I build clean architectures, robust APIs, scalable systems, and complete products end-to-end.
 </p>
 
@@ -332,5 +332,5 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
-  Let's build something cool 🤝
+<sub>Let's build something cool 🤝</sub>
 </p>
