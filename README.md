@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hello World, Welcome to my hub 👋</strong>
+  <strong>Hi, welcome to my hub 👋</strong>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
@@ -298,22 +298,39 @@
 
 <div align="center">
   <strong>
+    <span style="display: inline-block; font-size: 15px;"><code>O P E N&nbsp;&nbsp;T O</code></span>
+  </strong>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Freelance-111111?style=flat-square" alt="Freelance" />
+  <img src="https://img.shields.io/badge/Open%20Source-111111?style=flat-square" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Full--Time-111111?style=flat-square" alt="Full-Time" />
+  <img src="https://img.shields.io/badge/Remote-111111?style=flat-square" alt="Remote" />
+</div>
+
+<br />
+
+<div align="center">
+  <strong>
     <span style="display: inline-block; font-size: 15px;"><code>C O N T A C T&nbsp;&nbsp;M E</code></span>
   </strong>
 </div>
 
 <br />
 
-<p align="center">
-  Open to freelance, open-source, full-time, and remote opportunities.
-</p>
+<div align="center">
+  <a href="https://aymanebouljam.com/?section=contact"><img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/aymanebouljam"><img src="https://img.shields.io/badge/LinkedIn-Profile-111111?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://aymanebouljam.com"><img src="https://img.shields.io/badge/Portfolio-Live-111111?style=flat-square" alt="Portfolio" /></a>
+</div>
 
 <br />
 
-<div align="center">
-  <a href="https://aymanebouljam.com/?section=contact">Email</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aymanebouljam">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://aymanebouljam.com">Portfolio</a>
-</div>
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+<p align="center">
+  <sub>Let's build something cool.</sub>
+</p>
