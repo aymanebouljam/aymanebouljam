@@ -332,5 +332,5 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
-  Let's build something cool... 🤝
+  Let's build something cool 🤝
 </p>
