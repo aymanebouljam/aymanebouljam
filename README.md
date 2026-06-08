@@ -37,7 +37,7 @@
 
 <p align="center">
   I can adapt to different stacks and project needs, but I especially enjoy working with<br />
-  Laravel · PostgreSQL · Next.js · Shadcn/ui · Tailwind CSS
+  Laravel · Node.js · PostgreSQL · MongoDB · Next.js
 </p>
 
 <br />
@@ -164,10 +164,10 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Freelance-111111?style=flat-square" alt="Freelance" />
-  <img src="https://img.shields.io/badge/Full--Time-111111?style=flat-square" alt="Full-Time" />
-  <img src="https://img.shields.io/badge/Remote-111111?style=flat-square" alt="Remote" />
-  <img src="https://img.shields.io/badge/Open%20Source%20%E2%99%A1-111111?style=flat-square" alt="Open Source heart" />
+  <img src="https://img.shields.io/badge/Freelance-111111?style=flat" alt="Freelance" />
+  <img src="https://img.shields.io/badge/Full--Time-111111?style=flat" alt="Full-Time" />
+  <img src="https://img.shields.io/badge/Remote-111111?style=flat" alt="Remote" />
+  <img src="https://img.shields.io/badge/Open%20Source%20%E2%99%A1-111111?style=flat" alt="Open Source heart" />
 </div>
 
 <br />
@@ -181,9 +181,9 @@
 <br />
 
 <div align="center">
-  <a href="https://aymanebouljam.com/?section=contact"><img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/aymanebouljam"><img src="https://img.shields.io/badge/LinkedIn-Profile-111111?style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://aymanebouljam.com"><img src="https://img.shields.io/badge/Portfolio-Live-111111?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://aymanebouljam.com/?section=contact"><img src="https://img.shields.io/badge/Email-Contact-111111?style=flat" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/aymanebouljam"><img src="https://img.shields.io/badge/LinkedIn-Profile-111111?style=flat" alt="LinkedIn" /></a>
+  <a href="https://aymanebouljam.com"><img src="https://img.shields.io/badge/Portfolio-Live-111111?style=flat" alt="Portfolio" /></a>
 </div>
 
 <br />
