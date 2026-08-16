@@ -107,26 +107,6 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>BUILDLY AI</strong></p>
-      <p align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/buildly-ai.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/buildly-ai-light.svg" />
-          <img src="demo/descriptions/buildly-ai-light.svg" alt="Website generator for refining a project through chat with live preview and code view" />
-        </picture>
-        <br />
-        <code>Next.js · SQLite · Prisma · Groq API</code>
-      </p>
-      <a href="https://github.com/aymanebouljam/buildly-ai" title="Open Buildly AI repository">
-        <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
       <p align="center"><strong>DOCBOT AI</strong></p>
       <p align="center">
         <picture>
@@ -139,6 +119,26 @@
       </p>
       <a href="https://github.com/aymanebouljam/docbot-ai" title="Open DocBot AI repository">
         <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><strong>BUILDLY AI</strong></p>
+      <p align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/buildly-ai.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/buildly-ai-light.svg" />
+          <img src="demo/descriptions/buildly-ai-light.svg" alt="Website generator for refining a project through chat with live preview and code view" />
+        </picture>
+        <br />
+        <code>Next.js · SQLite · Prisma · Groq API</code>
+      </p>
+      <a href="https://github.com/aymanebouljam/buildly-ai" title="Open Buildly AI repository">
+        <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
