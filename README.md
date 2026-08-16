@@ -11,8 +11,8 @@
 </p>
 <p align="center">
   My name is Aymane Bouljam.<br />
-  I’m a full-stack developer who builds products and systems<br />
-  that streamline workflows and solve real business problems.
+  I’m a full-stack developer who builds products and systems that streamline<br />
+  workflows and solve real business problems.
 </p>
 
 <br />
