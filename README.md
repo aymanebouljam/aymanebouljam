@@ -57,21 +57,6 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong>INVENTRA</strong></p>
-      <p align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/inventra.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/inventra-light.svg" />
-          <img src="demo/descriptions/inventra-light.svg" alt="Inventory app for products, suppliers, sales, purchases, and business performance" />
-        </picture>
-        <br />
-        <code>Express.js · MongoDB · React · Tailwind CSS</code>
-      </p>
-      <a href="https://github.com/aymanebouljam/inventra" title="Open Inventra repository">
-        <img src="demo/gifs/inventra.gif" alt="Inventra demo preview" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
       <p align="center"><strong>VYNCE</strong></p>
       <p align="center">
         <picture>
@@ -86,11 +71,6 @@
         <img src="demo/gifs/vynce.gif" alt="Vynce demo preview" width="100%" />
       </a>
     </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
     <td width="50%" valign="top">
       <p align="center"><strong>CLINIFIED HUB</strong></p>
       <p align="center">
@@ -104,6 +84,26 @@
       </p>
       <a href="https://github.com/aymanebouljam/clinified-hub" title="Open Clinified Hub repository">
         <img src="demo/gifs/clinified-hub.gif" alt="Clinified Hub demo preview" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><strong>INVENTRA</strong></p>
+      <p align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/inventra.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/inventra-light.svg" />
+          <img src="demo/descriptions/inventra-light.svg" alt="Inventory app for products, suppliers, sales, purchases, and business performance" />
+        </picture>
+        <br />
+        <code>Express.js · MongoDB · React · Tailwind CSS</code>
+      </p>
+      <a href="https://github.com/aymanebouljam/inventra" title="Open Inventra repository">
+        <img src="demo/gifs/inventra.gif" alt="Inventra demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
