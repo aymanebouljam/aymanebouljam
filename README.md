@@ -6,45 +6,45 @@
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><code>W H O&nbsp;&nbsp;I&nbsp;&nbsp;A M</code></span>
+    <code>W H O&nbsp;&nbsp;I&nbsp;&nbsp;A M</code>
   </strong>
 </p>
 <p align="center">
-  I’m Aymane Bouljam.<br />
-  I work primarily as a backend developer, with full-stack capabilities when needed.<br />
-  I build clean architectures, robust APIs, scalable systems, and complete products end-to-end.
+  My name is Aymane Bouljam.<br />
+  I’m a full-stack developer who builds products and systems that streamline workflows and solve real business problems.
 </p>
 
 <br />
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><code>P H I L O S O P H Y</code></span>
+    <code>P H I L O S O P H Y</code>
   </strong>
 </p>
 
 <p align="center">
-  Clarity first • Ship complete products • Build for scale
+  Think clearly • Build with purpose • Own the outcome
 </p>
 
 <br />
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><code>T E C H&nbsp;&nbsp;S T A C K</code></span>
+    <code>T E C H&nbsp;&nbsp;S T A C K</code>
   </strong>
 </p>
 
 <p align="center">
-  I can adapt to different stacks and project needs, but I especially enjoy working with<br />
-  Laravel · Node.js · PostgreSQL · MongoDB · Next.js
+  Technologies I’ve worked with include<br />
+  Laravel · Express.js · NestJS · React · Vue.js · Next.js<br />
+  PostgreSQL · MySQL · MongoDB
 </p>
 
 <br />
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><code>F E A T U R E D&nbsp;&nbsp;W O R K</code></span>
+    <code>F E A T U R E D&nbsp;&nbsp;W O R K</code>
   </strong>
 </p>
 
@@ -53,15 +53,11 @@
 </p>
 
 <div align="center">
-<details>
-  <summary><strong>Full Stack Apps</strong></summary>
-  <br />
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">INVENTRA</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
+      <p align="center"><strong>INVENTRA</strong></p>
+      <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/inventra.svg" />
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/inventra-light.svg" />
@@ -73,8 +69,8 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">VYNCE</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
+      <p align="center"><strong>VYNCE</strong></p>
+      <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/vynce.svg" />
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/vynce-light.svg" />
@@ -91,8 +87,8 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">CLINIFIED HUB</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
+      <p align="center"><strong>CLINIFIED HUB</strong></p>
+      <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/clinified-hub.svg" />
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/clinified-hub-light.svg" />
@@ -104,8 +100,8 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">BUILDLY AI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
+      <p align="center"><strong>BUILDLY AI</strong></p>
+      <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/buildly-ai.svg" />
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/buildly-ai-light.svg" />
@@ -122,8 +118,8 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">DOCBOT AI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
+      <p align="center"><strong>DOCBOT AI</strong></p>
+      <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/docbot-ai.svg" />
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/docbot-ai-light.svg" />
@@ -135,8 +131,8 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">FILMORAX</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
+      <p align="center"><strong>FILMORAX</strong></p>
+      <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/filmorax.svg" />
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/filmorax-light.svg" />
@@ -150,40 +146,43 @@
   </tr>
 </table>
 
-</details>
+<p align="center">
+  <a href="https://github.com/aymanebouljam?tab=repositories"><strong>Explore more projects →</strong></a>
+</p>
+
 </div>
 
 <br />
 
 <div align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><code>O P E N&nbsp;&nbsp;T O</code></span>
+    <code>O P E N&nbsp;&nbsp;T O</code>
   </strong>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Freelance-111111?style=flat" alt="Freelance" />
-  <img src="https://img.shields.io/badge/Full--Time-111111?style=flat" alt="Full-Time" />
-  <img src="https://img.shields.io/badge/Remote-111111?style=flat" alt="Remote" />
-  <img src="https://img.shields.io/badge/Open%20Source%20%E2%99%A1-111111?style=flat" alt="Open Source heart" />
+  <img src="https://img.shields.io/badge/Freelance-374151?style=flat" alt="Freelance" />
+  <img src="https://img.shields.io/badge/Full--Time-374151?style=flat" alt="Full-Time" />
+  <img src="https://img.shields.io/badge/Remote-374151?style=flat" alt="Remote" />
+  <img src="https://img.shields.io/badge/Open%20Source%20%E2%99%A1-374151?style=flat" alt="Open Source heart" />
 </div>
 
 <br />
 
 <div align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><code>C O N T A C T&nbsp;&nbsp;M E</code></span>
+    <code>C O N T A C T&nbsp;&nbsp;M E</code>
   </strong>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://aymanebouljam.com/?section=contact"><img src="https://img.shields.io/badge/Email-Contact-111111?style=flat" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/aymanebouljam"><img src="https://img.shields.io/badge/LinkedIn-Profile-111111?style=flat" alt="LinkedIn" /></a>
-  <a href="https://aymanebouljam.com"><img src="https://img.shields.io/badge/Portfolio-Live-111111?style=flat" alt="Portfolio" /></a>
+  <a href="https://aymanebouljam.com/?section=contact"><img src="https://img.shields.io/badge/Contact-Let%E2%80%99s%20Talk-6D28D9?style=flat" alt="Contact · Let’s Talk" /></a>
+  <a href="https://www.linkedin.com/in/aymanebouljam"><img src="https://img.shields.io/badge/LinkedIn-Profile-6D28D9?style=flat" alt="LinkedIn" /></a>
+  <a href="https://aymanebouljam.com"><img src="https://img.shields.io/badge/Portfolio-Live-6D28D9?style=flat" alt="Portfolio" /></a>
 </div>
 
 <br />
@@ -191,5 +190,5 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
-<sub>Open to thoughtful product work 🤝</sub>
+<sub>Have a problem worth solving? Let’s build it. 🤝</sub>
 </p>
