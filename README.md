@@ -64,8 +64,9 @@
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/inventra-light.svg" />
           <img src="demo/descriptions/inventra-light.svg" alt="Inventory app for products, suppliers, sales, purchases, and business performance" />
         </picture>
+        <br />
+        <sub>Express.js · MongoDB · React · Tailwind CSS</sub>
       </p>
-      <p align="center"><sub>Express.js · MongoDB · React · Tailwind CSS</sub></p>
       <a href="https://github.com/aymanebouljam/inventra" title="Open Inventra repository">
         <img src="demo/gifs/inventra.gif" alt="Inventra demo preview" width="100%" />
       </a>
@@ -78,8 +79,9 @@
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/vynce-light.svg" />
           <img src="demo/descriptions/vynce-light.svg" alt="Modern social platform built with Laravel and Inertia, featuring posts, connections, messaging, and notifications" />
         </picture>
+        <br />
+        <sub>Laravel · PostgreSQL · Inertia.js · React</sub>
       </p>
-      <p align="center"><sub>Laravel · PostgreSQL · Inertia.js · React</sub></p>
       <a href="https://github.com/aymanebouljam/vynce" title="Open Vynce repository">
         <img src="demo/gifs/vynce.gif" alt="Vynce demo preview" width="100%" />
       </a>
@@ -97,8 +99,9 @@
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/clinified-hub-light.svg" />
           <img src="demo/descriptions/clinified-hub-light.svg" alt="Healthcare platform for appointments, onboarding, payments, and operational visibility" />
         </picture>
+        <br />
+        <sub>Laravel · MySQL · React · Material UI</sub>
       </p>
-      <p align="center"><sub>Laravel · MySQL · React · Material UI</sub></p>
       <a href="https://github.com/aymanebouljam/clinified-hub" title="Open Clinified Hub repository">
         <img src="demo/gifs/clinified-hub.gif" alt="Clinified Hub demo preview" width="100%" />
       </a>
@@ -111,8 +114,9 @@
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/buildly-ai-light.svg" />
           <img src="demo/descriptions/buildly-ai-light.svg" alt="Website generator for refining a project through chat with live preview and code view" />
         </picture>
+        <br />
+        <sub>Next.js · SQLite · Prisma · Groq API</sub>
       </p>
-      <p align="center"><sub>Next.js · SQLite · Prisma · Groq API</sub></p>
       <a href="https://github.com/aymanebouljam/buildly-ai" title="Open Buildly AI repository">
         <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
       </a>
@@ -130,8 +134,9 @@
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/docbot-ai-light.svg" />
           <img src="demo/descriptions/docbot-ai-light.svg" alt="Medical chatbot that only responds to health-related questions for focused interactions" />
         </picture>
+        <br />
+        <sub>Next.js · SQLite · Prisma · Groq API</sub>
       </p>
-      <p align="center"><sub>Next.js · SQLite · Prisma · Groq API</sub></p>
       <a href="https://github.com/aymanebouljam/docbot-ai" title="Open DocBot AI repository">
         <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
       </a>
@@ -144,8 +149,9 @@
           <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/filmorax-light.svg" />
           <img src="demo/descriptions/filmorax-light.svg" alt="Movie streaming app with a polished browsing flow" />
         </picture>
+        <br />
+        <sub>Next.js · OMDb API · Supabase</sub>
       </p>
-      <p align="center"><sub>Next.js · OMDb API · Supabase</sub></p>
       <a href="https://github.com/aymanebouljam/filmora-x" title="Open FilmoraX repository">
         <img src="demo/gifs/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
       </a>
