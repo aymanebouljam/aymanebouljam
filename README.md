@@ -126,7 +126,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <p align="center"><strong>BUILDLY AI</strong></p>
       <p align="center">
         <picture>
@@ -139,21 +139,6 @@
       </p>
       <a href="https://github.com/aymanebouljam/buildly-ai" title="Open Buildly AI repository">
         <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center"><strong>FILMORAX</strong></p>
-      <p align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/filmorax.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/filmorax-light.svg" />
-          <img src="demo/descriptions/filmorax-light.svg" alt="Movie streaming app with a polished browsing flow" />
-        </picture>
-        <br />
-        <code>Next.js · OMDb API · Supabase</code>
-      </p>
-      <a href="https://github.com/aymanebouljam/filmora-x" title="Open FilmoraX repository">
-        <img src="demo/gifs/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
       </a>
     </td>
   </tr>
