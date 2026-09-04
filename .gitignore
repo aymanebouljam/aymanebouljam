@@ -1,0 +1,64 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.idea/
+.vscode/
+.codex
+
+# Temporary recordings and source captures
+*.mp4
+*.mov
+*.mkv
+*.webm
+
+# Source images
+*.png
+!demo/
+!demo/thumbnails/
+!demo/thumbnails/*.png
+*.jpg
+*.jpeg
+*.webp
+*.avif
+*.heic
+*.bmp
+*.tiff
+*.psd
+*.ai
+
+# Raw documents and notes
+*.txt
+*.pdf
+*.doc
+*.docx
+*.rtf
+*.odt
+*.pages
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.key
+
+# Archives and exports
+*.zip
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.7z
+*.rar
+
+# Temporary conversion leftovers
+*.tmp
+*.bak
+*.log
+*.swp
+*.swo
+
+.agents
+.codex
