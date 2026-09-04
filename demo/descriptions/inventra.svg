@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="52" viewBox="0 0 560 52" role="img" aria-label="Inventory app for products, suppliers, sales, purchases, and business performance">
+  <line x1="32" y1="6" x2="528" y2="6" stroke="#8B5CF6" stroke-width="1.5"/>
+  <text x="50%" y="50%" fill="#FFFFFF" font-family="Verdana, DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" dominant-baseline="middle">Inventory app for products, sales, and suppliers</text>
+  <line x1="32" y1="46" x2="528" y2="46" stroke="#8B5CF6" stroke-width="1.5"/>
+</svg>
