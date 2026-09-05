@@ -53,6 +53,10 @@
   A selection of projects I’ve built.
 </p>
 
+<details>
+  <summary align="center"><strong>Show Work</strong></summary>
+  <br />
+
 <div align="center">
 <table align="center" width="100%">
   <tr>
@@ -153,11 +157,12 @@
   </tr>
 </table>
 
+</div>
+</details>
+
 <p align="center">
   <a href="https://github.com/aymanebouljam?tab=repositories"><strong>Explore more projects →</strong></a>
 </p>
-
-</div>
 
 <br />
 
