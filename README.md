@@ -57,7 +57,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong>VYNCE</strong> <a href="https://github.com/aymanebouljam/vynce" title="Open Vynce repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Vynce GitHub repository" width="16" height="16" /></picture></a></p>
+      <p align="center"><strong>VYNCE</strong></p>
+      <p align="center">
+        <a href="https://github.com/aymanebouljam/vynce" title="Open Vynce repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Vynce GitHub repository" width="18" height="18" /></picture></a>
+        <a href="https://youtu.be/fe_dRFOq5Y8" title="Watch Vynce demo on YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="Watch Vynce demo on YouTube" width="18" height="18" /></a>
+      </p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/vynce.svg" />
@@ -70,7 +74,11 @@
       <img src="demo/gifs/vynce.gif" alt="Vynce demo preview" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>CLINIFIED HUB</strong> <a href="https://github.com/aymanebouljam/clinified-hub" title="Open Clinified Hub repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Clinified Hub GitHub repository" width="16" height="16" /></picture></a></p>
+      <p align="center"><strong>CLINIFIED HUB</strong></p>
+      <p align="center">
+        <a href="https://github.com/aymanebouljam/clinified-hub" title="Open Clinified Hub repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Clinified Hub GitHub repository" width="18" height="18" /></picture></a>
+        <a href="https://youtu.be/W4WmxTHukLo" title="Watch Clinified Hub demo on YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="Watch Clinified Hub demo on YouTube" width="18" height="18" /></a>
+      </p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/clinified-hub.svg" />
@@ -88,7 +96,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong>INVENTRA</strong> <a href="https://github.com/aymanebouljam/inventra" title="Open Inventra repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Inventra GitHub repository" width="16" height="16" /></picture></a></p>
+      <p align="center"><strong>INVENTRA</strong></p>
+      <p align="center">
+        <a href="https://github.com/aymanebouljam/inventra" title="Open Inventra repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Inventra GitHub repository" width="18" height="18" /></picture></a>
+        <a href="https://youtu.be/q88LoSENJeo" title="Watch Inventra demo on YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="Watch Inventra demo on YouTube" width="18" height="18" /></a>
+      </p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/inventra.svg" />
@@ -101,7 +113,11 @@
       <img src="demo/gifs/inventra.gif" alt="Inventra demo preview" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>VIRELIO</strong> <a href="https://github.com/aymanebouljam/virelio" title="Open Virelio repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Virelio GitHub repository" width="16" height="16" /></picture></a></p>
+      <p align="center"><strong>VIRELIO</strong></p>
+      <p align="center">
+        <a href="https://github.com/aymanebouljam/virelio" title="Open Virelio repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Virelio GitHub repository" width="18" height="18" /></picture></a>
+        <a href="https://youtu.be/S12prrpvc64" title="Watch Virelio demo on YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="Watch Virelio demo on YouTube" width="18" height="18" /></a>
+      </p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/virelio.svg" />
@@ -119,7 +135,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong>BUILDLY AI</strong> <a href="https://github.com/aymanebouljam/buildly-ai" title="Open Buildly AI repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Buildly AI GitHub repository" width="16" height="16" /></picture></a></p>
+      <p align="center"><strong>BUILDLY AI</strong></p>
+      <p align="center">
+        <a href="https://github.com/aymanebouljam/buildly-ai" title="Open Buildly AI repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Buildly AI GitHub repository" width="18" height="18" /></picture></a>
+        <a href="https://youtu.be/4AQoGTDC2r8" title="Watch Buildly AI demo on YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="Watch Buildly AI demo on YouTube" width="18" height="18" /></a>
+      </p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/buildly-ai.svg" />
@@ -132,7 +152,11 @@
       <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>DOCBOT AI</strong> <a href="https://github.com/aymanebouljam/docbot-ai" title="Open DocBot AI repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="DocBot AI GitHub repository" width="16" height="16" /></picture></a></p>
+      <p align="center"><strong>DOCBOT AI</strong></p>
+      <p align="center">
+        <a href="https://github.com/aymanebouljam/docbot-ai" title="Open DocBot AI repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="DocBot AI GitHub repository" width="18" height="18" /></picture></a>
+        <a href="https://youtu.be/49XmlydHS3A" title="Watch DocBot AI demo on YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="Watch DocBot AI demo on YouTube" width="18" height="18" /></a>
+      </p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/docbot-ai.svg" />
