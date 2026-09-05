@@ -21,6 +21,7 @@ Thumbs.db
 *.jpg
 *.jpeg
 *.webp
+!demo/gifs/Virelio.webp
 *.avif
 *.heic
 *.bmp

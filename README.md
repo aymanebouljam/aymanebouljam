@@ -126,7 +126,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <p align="center"><strong>BUILDLY AI</strong></p>
       <p align="center">
         <picture>
@@ -139,6 +139,23 @@
       </p>
       <a href="https://github.com/aymanebouljam/buildly-ai" title="Open Buildly AI repository">
         <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><strong>VIRELIO</strong></p>
+      <p align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/virelio.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/virelio-light.svg" />
+          <img src="demo/descriptions/virelio-light.svg" alt="Clean app for tracking what you bill and spend" />
+        </picture>
+        <br />
+        <code>Backend — NestJS · Prisma · PostgreSQL · Jest</code>
+        <br />
+        <code>Frontend — Vue 3 · Tailwind CSS</code>
+      </p>
+      <a href="https://github.com/aymanebouljam/virelio" title="Open Virelio repository">
+        <img src="demo/gifs/Virelio.webp" alt="Virelio demo preview" width="100%" />
       </a>
     </td>
   </tr>
