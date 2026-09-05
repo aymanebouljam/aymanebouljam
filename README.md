@@ -57,7 +57,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong>VYNCE</strong></p>
+      <p align="center"><strong>VYNCE</strong> <a href="https://github.com/aymanebouljam/vynce" title="Open Vynce repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Vynce GitHub repository" width="16" height="16" /></picture></a></p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/vynce.svg" />
@@ -67,12 +67,10 @@
         <br />
         <code>Laravel · PostgreSQL · Inertia.js · React</code>
       </p>
-      <a href="https://github.com/aymanebouljam/vynce" title="Open Vynce repository">
-        <img src="demo/gifs/vynce.gif" alt="Vynce demo preview" width="100%" />
-      </a>
+      <img src="demo/gifs/vynce.gif" alt="Vynce demo preview" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>CLINIFIED HUB</strong></p>
+      <p align="center"><strong>CLINIFIED HUB</strong> <a href="https://github.com/aymanebouljam/clinified-hub" title="Open Clinified Hub repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Clinified Hub GitHub repository" width="16" height="16" /></picture></a></p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/clinified-hub.svg" />
@@ -82,9 +80,7 @@
         <br />
         <code>Laravel · MySQL · React · Material UI</code>
       </p>
-      <a href="https://github.com/aymanebouljam/clinified-hub" title="Open Clinified Hub repository">
-        <img src="demo/gifs/clinified-hub.gif" alt="Clinified Hub demo preview" width="100%" />
-      </a>
+      <img src="demo/gifs/clinified-hub.gif" alt="Clinified Hub demo preview" width="100%" />
     </td>
   </tr>
 </table>
@@ -92,7 +88,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong>INVENTRA</strong></p>
+      <p align="center"><strong>INVENTRA</strong> <a href="https://github.com/aymanebouljam/inventra" title="Open Inventra repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Inventra GitHub repository" width="16" height="16" /></picture></a></p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/inventra.svg" />
@@ -102,12 +98,10 @@
         <br />
         <code>Express.js · MongoDB · React · Tailwind CSS</code>
       </p>
-      <a href="https://github.com/aymanebouljam/inventra" title="Open Inventra repository">
-        <img src="demo/gifs/inventra.gif" alt="Inventra demo preview" width="100%" />
-      </a>
+      <img src="demo/gifs/inventra.gif" alt="Inventra demo preview" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>VIRELIO</strong></p>
+      <p align="center"><strong>VIRELIO</strong> <a href="https://github.com/aymanebouljam/virelio" title="Open Virelio repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Virelio GitHub repository" width="16" height="16" /></picture></a></p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/virelio.svg" />
@@ -117,9 +111,7 @@
         <br />
         <code>NestJS · Prisma · PostgreSQL · Vue.js</code>
       </p>
-      <a href="https://github.com/aymanebouljam/virelio" title="Open Virelio repository">
-        <img src="demo/gifs/Virelio.webp" alt="Virelio demo preview" width="100%" />
-      </a>
+      <img src="demo/gifs/Virelio.webp" alt="Virelio demo preview" width="100%" />
     </td>
   </tr>
 </table>
@@ -127,7 +119,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong>BUILDLY AI</strong></p>
+      <p align="center"><strong>BUILDLY AI</strong> <a href="https://github.com/aymanebouljam/buildly-ai" title="Open Buildly AI repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="Buildly AI GitHub repository" width="16" height="16" /></picture></a></p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/buildly-ai.svg" />
@@ -137,12 +129,10 @@
         <br />
         <code>Next.js · SQLite · Prisma · Groq API</code>
       </p>
-      <a href="https://github.com/aymanebouljam/buildly-ai" title="Open Buildly AI repository">
-        <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
-      </a>
+      <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>DOCBOT AI</strong></p>
+      <p align="center"><strong>DOCBOT AI</strong> <a href="https://github.com/aymanebouljam/docbot-ai" title="Open DocBot AI repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/24292F" /><img src="https://cdn.simpleicons.org/github/24292F" alt="DocBot AI GitHub repository" width="16" height="16" /></picture></a></p>
       <p align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/docbot-ai.svg" />
@@ -152,9 +142,7 @@
         <br />
         <code>Next.js · SQLite · Prisma · Groq API</code>
       </p>
-      <a href="https://github.com/aymanebouljam/docbot-ai" title="Open DocBot AI repository">
-        <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
-      </a>
+      <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
     </td>
   </tr>
 </table>
