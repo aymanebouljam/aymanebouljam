@@ -160,6 +160,8 @@
 </div>
 </details>
 
+<p align="center">Or</p>
+
 <p align="center">
   <a href="https://github.com/aymanebouljam?tab=repositories"><strong>Explore more projects →</strong></a>
 </p>
