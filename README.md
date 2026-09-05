@@ -107,18 +107,18 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>DOCBOT AI</strong></p>
+      <p align="center"><strong>VIRELIO</strong></p>
       <p align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/docbot-ai.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/docbot-ai-light.svg" />
-          <img src="demo/descriptions/docbot-ai-light.svg" alt="Medical chatbot that only responds to health-related questions for focused interactions" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/virelio.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/virelio-light.svg" />
+          <img src="demo/descriptions/virelio-light.svg" alt="Clean app for tracking what you bill and spend" />
         </picture>
         <br />
-        <code>Next.js · SQLite · Prisma · Groq API</code>
+        <code>NestJS · Prisma · PostgreSQL · Vue.js</code>
       </p>
-      <a href="https://github.com/aymanebouljam/docbot-ai" title="Open DocBot AI repository">
-        <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
+      <a href="https://github.com/aymanebouljam/virelio" title="Open Virelio repository">
+        <img src="demo/gifs/Virelio.webp" alt="Virelio demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -142,18 +142,18 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>VIRELIO</strong></p>
+      <p align="center"><strong>DOCBOT AI</strong></p>
       <p align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/virelio.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/virelio-light.svg" />
-          <img src="demo/descriptions/virelio-light.svg" alt="Clean app for tracking what you bill and spend" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/docbot-ai.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/docbot-ai-light.svg" />
+          <img src="demo/descriptions/docbot-ai-light.svg" alt="Medical chatbot that only responds to health-related questions for focused interactions" />
         </picture>
         <br />
-        <code>NestJS · Prisma · PostgreSQL · Vue.js</code>
+        <code>Next.js · SQLite · Prisma · Groq API</code>
       </p>
-      <a href="https://github.com/aymanebouljam/virelio" title="Open Virelio repository">
-        <img src="demo/gifs/Virelio.webp" alt="Virelio demo preview" width="100%" />
+      <a href="https://github.com/aymanebouljam/docbot-ai" title="Open DocBot AI repository">
+        <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
       </a>
     </td>
   </tr>
