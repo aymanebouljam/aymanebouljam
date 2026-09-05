@@ -150,9 +150,7 @@
           <img src="demo/descriptions/virelio-light.svg" alt="Clean app for tracking what you bill and spend" />
         </picture>
         <br />
-        <code>Backend — NestJS · Prisma · PostgreSQL · Jest</code>
-        <br />
-        <code>Frontend — Vue 3 · Tailwind CSS</code>
+        <code>NestJS · Prisma · PostgreSQL · Vue.js</code>
       </p>
       <a href="https://github.com/aymanebouljam/virelio" title="Open Virelio repository">
         <img src="demo/gifs/Virelio.webp" alt="Virelio demo preview" width="100%" />
