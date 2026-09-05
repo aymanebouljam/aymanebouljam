@@ -15,20 +15,6 @@
   workflows and solve real business problems.
 </p>
 
-<br />
-
-<p align="center">
-  <strong>
-    <code>P H I L O S O P H Y</code>
-  </strong>
-</p>
-
-<p align="center">
-  Think clearly • Build with purpose • Own the outcome
-</p>
-
-<br />
-
 <p align="center">
   <strong>
     <code>T E C H&nbsp;&nbsp;S T A C K</code>
@@ -160,7 +146,9 @@
 </div>
 </details>
 
-<p align="center">Or</p>
+<p align="center">
+  <strong><code>O R</code></strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/aymanebouljam?tab=repositories"><strong>Explore more projects →</strong></a>
@@ -170,24 +158,7 @@
 
 <div align="center">
   <strong>
-    <code>O P E N&nbsp;&nbsp;T O</code>
-  </strong>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Freelance-374151?style=flat" alt="Freelance" />
-  <img src="https://img.shields.io/badge/Full--Time-374151?style=flat" alt="Full-Time" />
-  <img src="https://img.shields.io/badge/Remote-374151?style=flat" alt="Remote" />
-  <img src="https://img.shields.io/badge/Open%20Source%20%E2%99%A1-374151?style=flat" alt="Open Source heart" />
-</div>
-
-<br />
-
-<div align="center">
-  <strong>
-    <code>C O N T A C T&nbsp;&nbsp;M E</code>
+    <code>C O N T A C T</code>
   </strong>
 </div>
 
@@ -204,5 +175,5 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
-<sub>Have a problem worth solving? Let’s build it. 🤝</sub>
+<sub>Have something worth creating? Let’s build it. 🤝</sub>
 </p>
