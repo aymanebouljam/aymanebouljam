@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="52" viewBox="0 0 560 52" role="img" aria-label="Clean app for tracking what you bill and spend">
-  <line x1="32" y1="6" x2="528" y2="6" stroke="#059669" stroke-width="1.5"/>
-  <text x="50%" y="50%" fill="#065F46" font-family="Verdana, DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" dominant-baseline="middle">A clean app for tracking what you bill and spend</text>
-  <line x1="32" y1="46" x2="528" y2="46" stroke="#059669" stroke-width="1.5"/>
+  <line x1="32" y1="6" x2="528" y2="6" stroke="#CA8A04" stroke-width="1.5"/>
+  <text x="50%" y="50%" fill="#854D0E" font-family="Verdana, DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" dominant-baseline="middle">A clean app for tracking what you bill and spend</text>
+  <line x1="32" y1="46" x2="528" y2="46" stroke="#CA8A04" stroke-width="1.5"/>
 </svg>
